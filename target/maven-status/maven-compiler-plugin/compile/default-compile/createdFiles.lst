@@ -1,0 +1,8 @@
+com/smarttmt/service/exception/BookAlreadyExistsException.class
+com/smarttmt/configuration/SwaggerConfig.class
+com/smarttmt/repository/BookRepository.class
+com/smarttmt/service/BookServiceImpl.class
+com/smarttmt/BookstoreApplication.class
+com/smarttmt/controller/BookController.class
+com/smarttmt/domain/Book.class
+com/smarttmt/service/BookService.class
